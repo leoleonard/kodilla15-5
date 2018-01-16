@@ -42,7 +42,7 @@ App = React.createClass({
                   }
               };
               xhr.send();
-          }),
+          })
         },
 
 
